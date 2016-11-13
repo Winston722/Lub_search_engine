@@ -1,0 +1,10 @@
+def zonescore(paragraph):
+    if paragraph = "conclusion":
+        return 0.5
+    elif paragraph = "introduction":
+    	return 0.15
+    elif paragraph = "body":
+        return 0.35
+    else:
+        return 0.0
+    
